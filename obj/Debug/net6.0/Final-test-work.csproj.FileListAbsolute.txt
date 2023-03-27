@@ -1,0 +1,15 @@
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.csproj.AssemblyReference.cache
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.AssemblyInfoInputs.cache
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.AssemblyInfo.cs
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.csproj.CoreCompileInputs.cache
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\bin\Debug\net6.0\Final-test-work.exe
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\bin\Debug\net6.0\Final-test-work.deps.json
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\bin\Debug\net6.0\Final-test-work.runtimeconfig.json
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\bin\Debug\net6.0\Final-test-work.dll
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\bin\Debug\net6.0\Final-test-work.pdb
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.dll
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\refint\Final-test-work.dll
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.pdb
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\Final-test-work.genruntimeconfig.cache
+C:\Users\bolgov\Documents\ЦБ и другое мои\___GeekBrains\Выбор специализации\Final-test-work3\Final-test-work\obj\Debug\net6.0\ref\Final-test-work.dll
